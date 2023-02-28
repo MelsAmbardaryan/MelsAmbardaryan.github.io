@@ -1,0 +1,50 @@
+body{
+    background-color:black ;
+}
+
+.Mypages{
+    width: 35%;
+    height: 35%;
+    margin: 0 auto;
+    background-color: white;
+    border: solid 3px white;
+    border-radius: 8px;
+}
+.Myphoto{
+    display: flex;
+    justify-content: center;
+    
+}
+.Myphoto img{
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    
+}
+.divname{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    color: rgb(27, 24, 24);
+}
+.info-me p{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+.pages i{
+   padding: 20px;
+}
+.pages i:hover{
+    background-color: blue;
+}
