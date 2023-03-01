@@ -48,3 +48,10 @@ h3{
 .pages i:hover{
     background-color: blue;
 }
+
+@media all and (max-width:550px){
+    .Mypages{
+        width: 100%;
+    }
+
+}
